@@ -24,3 +24,4 @@ Some limitattions of this data set was some data on the organial page i could no
 Other tables i could of made was an area graph to show other areas of the campaign could of went to.
 ![Sales](Resources/sales_category.png)
 ![sales](Resources/sales_country.png)
+Ok
